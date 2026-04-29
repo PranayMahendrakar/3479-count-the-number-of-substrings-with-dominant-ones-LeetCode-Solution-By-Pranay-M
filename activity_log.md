@@ -4,3 +4,4 @@
 - [2026-04-29T11:30:14Z] docs: update README with usage examples
 - [2026-04-29T18:58:02Z] feat: add helper utility function
 - [2026-04-29T08:52:15Z] fix: handle null pointer exception
+- [2026-04-29T14:40:49Z] test: add unit tests for core module
